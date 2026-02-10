@@ -1,0 +1,11 @@
+﻿Key,SourceString,DevComment
+"armor_sorcerer","Magos Robe Shielding: \r\n+{Value} Energy Barrier",""
+"armor_fighter","Medium Armor Mobility: \r\n{Value}% increased Dodge Cooldown Rate",""
+"armor_knight","Heavy Armor Deflection:\r\n+{value}% Glancing Projectile Hit Chance",""
+"armor_bmage","Plated Robe Warding:\r\n+{Value} Energy Barrier",""
+"armor_paladin","Ornate Armor Adornment:  \r\n+{Value}% to Thermic and Natural Resistances",""
+"armor_rogue","Light Armor Agility: \r\n{Value}% increased Dodge Cooldown Rate",""
+"shield_all","Shield: \r\n{Value} Free Barrier",""
+"weapon_PerSpeedAttackCastCD","{Value}% increased Attack, Cast, and Cooldown Speed",""
+"weapon_DebuffOnHit_MoveSpeed","{Value}% Reduced Movement Speed for 3s on hit",""
+"shield_all_ghc","Shield: +{Value}% Glancing Hits Chance",""
