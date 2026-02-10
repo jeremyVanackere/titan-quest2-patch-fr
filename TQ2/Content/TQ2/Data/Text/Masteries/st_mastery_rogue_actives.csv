@@ -197,3 +197,6 @@
 "Scattershot_Mod_Doom_2DescriptionShort","À l'impact, <b>{DoomChance_UI}|round()%</> de chances d'appliquer <b>{Doom}|round()</> <me_Doom>Jugement</>.",""
 "Scattershot_Mod_ShadowDagger_0Name","Dague de l'ombre",""
 "Scattershot_Mod_ShadowDagger_1Description","Se transforme en sort infligeant <b>{Damage}|round()</> <me_PoisonDam>Dégâts de poison</> à la place.\nTags : +Ombre, -Attaque à distance, +Sort",""
+"Scattershot_Mod_Rupture_0Name","Rupture",""
+"Scattershot_Mod_Rupture_1Description","À l'impact, <b>{RuptureChance_UI}|fmt(min_frac=0,max_frac=1)%</> de chances de <b>Rupture</>.\r\n<b>+{MPCostMod}|round()</> de coût en Énergie.",""
+"Scattershot_Mod_Rupture_2DescriptionShort","À l'impact, <b>{RuptureChance_UI}|fmt(min_frac=0,max_frac=1)%</> de chances de <b>Rupture</>.",""
